@@ -1,6 +1,6 @@
-# react-web3-boilerplate
+# react-dapp-boilerplate
 
-Build a Web3 App with Solidity, Hardhat and React
+Build a Dapp with Solidity, Hardhat and React
 
 ### Setup and Run
 
